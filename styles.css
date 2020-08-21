@@ -2,7 +2,7 @@ body {
     font-family: Helvetica;
     font-size: 20px;
     text-align: center;
-    background: white;
+    background:linear-gradient(0deg, rgba(34,193,195,1) 24%, rgba(253,187,45,1) 100%);
     color: black;
     margin: 3em;
   }
@@ -12,7 +12,7 @@ body {
   }
   
   button {
-    background: rgb(168, 123, 123);
+    background:rgb(100,149,237);
     color: black;
     border: none;
     border-radius: 10px;
